@@ -2,7 +2,7 @@
 
 namespace App\Providers;
 
-use Cassandra\Schema;
+use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -14,7 +14,7 @@ class AppServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        Schema::defaultStringLenght(191);
+        Schema::defaultStringLength(191);
     }
 
     /**
