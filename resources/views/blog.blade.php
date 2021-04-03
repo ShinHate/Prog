@@ -6,7 +6,7 @@
         @foreach($blogs as $blog)
             @if ($blog->RL=='L')
                 <div class="col-12 col-xl-6 no-padding">
-                    <div class="{{(int)$blog->id == $loop->even ? "blog-content flex" : "blog-content flex flex-xl-row-reverse"}}">
+                    <div class="blog-content flex">
                         <figure>
                             <a href="#"><img src="{{ $blog->image }}" alt=""></a>
                         </figure>
@@ -56,6 +56,8 @@
             @endif
         @endforeach
     </div><!-- .row -->
+
+
 
 
 
