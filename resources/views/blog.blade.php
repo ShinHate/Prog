@@ -43,7 +43,7 @@
                             </header>
 
                             <footer class="flex flex-wrap align-items-center">
-                                <div class="posted-on">{{ $blog->created_at->format('Y-m-d') }}</div>
+                                <div class="posted-on">{{ $blog->created_at->format('F d, Y') }}</div>
 
                                 <ul class="flex flex-wrap align-items-center">
                                     <li><a href="{{ route('portfolio') }}">Portfolio</a></li>

@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cb674247-a88a-4500-b61b-390fb3196e37" name="Default Changelist" comment="Portfolio 4 Commit">
+    <list default="true" id="cb674247-a88a-4500-b61b-390fb3196e37" name="Default Changelist" comment="Portfolio 5 Commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/resources/views/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/blog.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/components/nav.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/components/nav.blade.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -212,7 +213,8 @@
       <workItem from="1617350151504" duration="4373000" />
       <workItem from="1617434556734" duration="1732000" />
       <workItem from="1617444880684" duration="111000" />
-      <workItem from="1617445001468" duration="981000" />
+      <workItem from="1617445001468" duration="2106000" />
+      <workItem from="1617466079252" duration="1249000" />
     </task>
     <task id="LOCAL-00001" summary="Portfolio first Commit">
       <created>1617350756970</created>
@@ -242,7 +244,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617444980008</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Portfolio 5 Commit">
+      <created>1617447385628</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617447385628</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,9 +272,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Portfolio first Commit" />
     <MESSAGE value="Portfolio 3 Commit" />
-    <MESSAGE value="Portfolio 4 Commit" />
     <MESSAGE value="master" />
-    <option name="LAST_COMMIT_MESSAGE" value="master" />
+    <MESSAGE value="Portfolio 4 Commit" />
+    <MESSAGE value="Portfolio 5 Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Portfolio 5 Commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

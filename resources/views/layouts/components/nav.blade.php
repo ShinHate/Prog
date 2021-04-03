@@ -33,13 +33,6 @@
         @endauth
 
     </ul>
-
-    <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-    </p>
-
-
     <div class="social-profiles">
         <ul class="flex justify-content-start justify-content-lg-center align-items-center">
             <li><a href="#"><i class="fa fa-facebook"></i></a></li>
@@ -48,6 +41,12 @@
             <li><a href="#"><i class="fa fa-pinterest"></i></a></li>
         </ul>
     </div><!-- .social-profiles -->
+
+    <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+        Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+        <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+    </p>
+
 </nav><!-- .site-navigation -->
 
 <div class="nav-bar-sep d-lg-none"></div>
